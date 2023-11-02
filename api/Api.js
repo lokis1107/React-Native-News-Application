@@ -1,12 +1,12 @@
 import { create } from "apisauce";
 
 const api = create({
-  baseURL: "https://newsapi.org/v2",
+  baseURL: "# Implement your Api Base url",
 });
 
-const Api = "?country=us&apiKey=49d2e084d3fc4e1fa6a82b6adf6cb215";
+const Api = "# Implement your API key value";
 
-const TopHeadlines = api.get("/top-headlines" + Api);
+const TopHeadlines = api.get("# Implement your Headline of the application" + Api);
 
 export default {
   TopHeadlines,
