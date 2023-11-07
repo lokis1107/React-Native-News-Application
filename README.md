@@ -14,4 +14,7 @@ The sample image is given below
 <p>The application include the share option. If you can any share method to share the content. The sample image of share screen is given below.</p>
 <h1>Share Screen</h1>
 <img src="https://github.com/lokis1107/React-Native-News-Application/assets/139110018/51062e53-6179-488b-b976-912c1a2cddb9" alt="" style="height: 400px; width: 200px;">
+
+<p>If you have documandation is available in my github repo....</p>
+
 <p>The full application source code is available in my github repo... :)</p>
